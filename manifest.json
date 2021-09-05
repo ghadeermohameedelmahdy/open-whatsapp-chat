@@ -1,11 +1,11 @@
 {
-    "name": "landing_page",
-    "short_name": "landing_page",
+    "name": "Whatsapp send",
+    "short_name": "Whatsapp send",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#0xFF329F4F",
+    "theme_color": "#0xFF329F4F",
+    "description": "Send WhatsApp to anyone without saving the number in the contacts",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
